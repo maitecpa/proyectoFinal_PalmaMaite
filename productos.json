@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "titulo": "Molinos",
+        "imagen": "./Images/2.jpg",
+       "precio": 990, 
+        "categoria": {
+            "nombre": "NORTE DE CHILE",
+            "id": "norte"
+        }
+    },
+    {
+        "id": "2",
+        "titulo": "Cielo",
+        "imagen": "./Images/3.jpg",
+       "precio": 790, 
+        "categoria": {
+            "nombre": "NORTE DE CHILE",
+            "id": "norte"
+        }
+    },
+    {
+        "id": "3",
+        "titulo": "Barco",
+        "imagen": "./Images/4.jpg",
+       "precio": 990, 
+        "categoria": {
+            "nombre": "SUR DE CHILE",
+            "id": "sur"
+        }
+    },
+    {
+        "id": "4",
+        "titulo": "Mar",
+        "imagen": "./Images/5.jpg",
+       "precio": 990,  
+        "categoria": {
+            "nombre": "SUR DE CHILE",
+            "id": "sur"
+        }
+    },
+    {
+        "id": "5",
+        "titulo": "Puente",
+        "imagen": "./Images/6.jpg",
+       "precio": 990, 
+        "categoria": {
+            "nombre": "SUR DE CHILE",
+            "id": "sur"
+        }
+    },
+    {
+        "id": "6",
+        "titulo": "Montaña",
+        "imagen": "./Images/8.jpg",
+       "precio": 790, 
+        "categoria": {
+            "nombre": "NORTE DE CHILE",
+            "id": "norte"
+        }
+    },
+    {
+        "id": "7",
+        "titulo": "Luz",
+        "imagen": "./Images/11.jpg",
+       "precio": 990, 
+        "categoria": {
+            "nombre": "NORTE DE CHILE",
+            "id": "norte"
+        }
+    },
+    {
+        "id": "8",
+        "titulo": "Amor",
+        "imagen": "./Images/12.jpg",
+       "precio": 990, 
+        "categoria": {
+            "nombre": "NORTE DE CHILE",
+            "id": "norte"
+        }
+    },
+    {
+        "id": "9",
+        "titulo": "Desierto",
+        "imagen": "./Images/10.jpg",
+       "precio": 590,  
+        "categoria": {
+            "nombre": "NORTE DE CHILE",
+            "id": "norte"
+        }
+    },
+    {
+        "id": "10",
+        "titulo": "Soledad",
+        "imagen": "./Images/14.jpg",
+       "precio": 790,
+        "categoria": {
+            "nombre": "SUR DE CHILE",
+            "id": "sur"
+        } 
+    },
+    {
+        "id": "11",
+        "titulo": "Cascada",
+        "imagen": "./Images/18.jpg",
+       "precio": 990, 
+        "categoria": {
+            "nombre": "SUR DE CHILE",
+            "id": "sur"
+        }
+    },
+    {
+        "id": "12",
+        "titulo": "Catedral",
+        "imagen": "./Images/19.jpg",
+       "precio": 990,
+        "categoria": {
+            "nombre": "SUR DE CHILE",
+            "id": "sur"
+        }
+    }
+]
